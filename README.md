@@ -43,6 +43,17 @@ Page 2 : Game & Platform Analysis
 - Focuses on game categories, developers, and gaming platforms
 - Visualization: Top 5 Developers by Sales, Console-wise Game Count, Total Sales by Genre
 
+Page 3: Regions and Reviews
+
+- Analyzes regional sales distribution and critic ratings
+- KPI Cards: North America Sales, Japan Sales, PAL Sales, Other Sales
+- Visualizations: Top 10 Genres by Average Critic Score, Regional Sales Contribution(%),Regional Sales by Region
+
+# How to Use
+
+- Download or clone this repository.
+- Open the .pbix file in Power BI Desktop.
+- Use the slicers to explore the data.
 
 
 
